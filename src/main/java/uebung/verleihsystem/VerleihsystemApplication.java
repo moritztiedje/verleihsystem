@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class VerleihsystemApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(VerleihsystemApplication.class, args);
-	}
+  public static void main(String[] args) {
+    SpringApplication.run(VerleihsystemApplication.class, args);
+  }
 
 }
